@@ -1,0 +1,7 @@
+com\xcelore\XcelorePlatformApplication.class
+com\xcelore\PatientController.class
+com\xcelore\PatientService.class
+com\xcelore\DoctorController.class
+com\xcelore\DoctorService.class
+com\xcelore\Doctor.class
+com\xcelore\Patient.class
